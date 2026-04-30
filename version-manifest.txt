@@ -1,1 +1,1 @@
-LatestVersion=v1.1.Essentials.b
+LatestVersion=v1.1.Essentials.a
